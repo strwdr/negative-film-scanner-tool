@@ -7,7 +7,7 @@ Simple tool for yet only BW film scanning and enhancement.
 - Adjust settings
 - Press 'q' on your keyboard to go to the next photo or 's' to skip
 - Output photos are stored in the ./output directory.
-# examples
+# examples (distorted images)
 ### example of proper alignment:
 ![align 1](examples/aligned_1.JPG)
 
