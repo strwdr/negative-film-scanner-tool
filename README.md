@@ -1,5 +1,5 @@
 # negative-film-scanner-tool
-Simple tool for yet only BW film scanning and enhancement.
+Simple tool for yet only BW film scanning, cropping and enhancement.
 # usage
 - Install requirements
 - Put scanned photos in the ./input directory
