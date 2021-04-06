@@ -9,7 +9,7 @@ Simple tool for yet only BW film scanning and enhancement.
 - Output photos are stored in the ./output directory.
 # examples
 ### example of proper alignment:
-![align 1](examples/.jpg)
+![align 1](examples/aligned_1.JPG)
 
 ### example inputs:
 ![input 1](examples/example_in_1.jpg)
