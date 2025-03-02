@@ -1,3 +1,5 @@
 opencv-python
 numpy
 matplotlib
+pillow
+scipy>=1.7.0
